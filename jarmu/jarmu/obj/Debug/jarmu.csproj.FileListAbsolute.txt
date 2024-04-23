@@ -1,0 +1,14 @@
+C:\Users\dudas\Desktop\oop\jarmu\jarmu\bin\Debug\jarmu.exe.config
+C:\Users\dudas\Desktop\oop\jarmu\jarmu\bin\Debug\jarmu.exe
+C:\Users\dudas\Desktop\oop\jarmu\jarmu\bin\Debug\jarmu.pdb
+C:\Users\dudas\Desktop\oop\jarmu\jarmu\obj\Debug\jarmu.csproj.AssemblyReference.cache
+C:\Users\dudas\Desktop\oop\jarmu\jarmu\obj\Debug\jarmu.csproj.CoreCompileInputs.cache
+C:\Users\dudas\Desktop\oop\jarmu\jarmu\obj\Debug\jarmu.exe
+C:\Users\dudas\Desktop\oop\jarmu\jarmu\obj\Debug\jarmu.pdb
+C:\Users\dudas\OneDrive\Asztali gép\oop\jarmu\jarmu\bin\Debug\jarmu.exe.config
+C:\Users\dudas\OneDrive\Asztali gép\oop\jarmu\jarmu\bin\Debug\jarmu.exe
+C:\Users\dudas\OneDrive\Asztali gép\oop\jarmu\jarmu\bin\Debug\jarmu.pdb
+C:\Users\dudas\OneDrive\Asztali gép\oop\jarmu\jarmu\obj\Debug\jarmu.csproj.AssemblyReference.cache
+C:\Users\dudas\OneDrive\Asztali gép\oop\jarmu\jarmu\obj\Debug\jarmu.csproj.CoreCompileInputs.cache
+C:\Users\dudas\OneDrive\Asztali gép\oop\jarmu\jarmu\obj\Debug\jarmu.exe
+C:\Users\dudas\OneDrive\Asztali gép\oop\jarmu\jarmu\obj\Debug\jarmu.pdb
